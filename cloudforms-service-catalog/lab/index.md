@@ -42,7 +42,7 @@ The lab is comprised of a number of systems:
 
         URL: https://cf-lu<number>.labs.rhepds.com
 
-        user: demo / password: r3dh4t1!
+        user: admin / password: r3dh4t1!
 
 * Red Hat Enterprise Virtualization Manager
 
@@ -579,7 +579,7 @@ The Service Dialog was automatically created. We want to verify it was created p
 
 1. Change the value of the field "Default Value"
 
-    ***Default Value:*** rhel7.2
+    ***Default Value:*** rhel7.3
 
     ![change the image name](img/service-dialog-heat-image-name.png)
 
