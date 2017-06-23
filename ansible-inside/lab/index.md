@@ -36,7 +36,7 @@ The lab is comprised of a number of systems:
 
         URL: https://cf-lu<number>.labs.rhepds.com
 
-        User: demo / password: r3dh4t1!
+        User: admin / password: r3dh4t1!
 
 * Red Hat Enterprise Virtualization Manager
 
